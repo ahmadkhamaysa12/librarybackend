@@ -1,0 +1,25 @@
+Exit code: 0
+Automated menu inputs: 127
+
+PASS : Three different library items added | expected=3, actual=3
+PASS : Duplicate item ID rejected | expected=1, actual=1
+PASS : Two members registered | expected=2, actual=2
+PASS : Duplicate username rejected | expected=1, actual=1
+PASS : Wrong password rejected | expected=1, actual=1
+PASS : Book detail update successful | expected=1, actual=1
+PASS : Changed book author visible | expected=1, actual=1
+PASS : Changed book pages visible | expected=1, actual=1
+PASS : Book title updated | expected=1, actual=1
+PASS : Disabled item | expected=1, actual=1
+PASS : Borrow limit updated | expected=1, actual=1
+PASS : Three loans created successfully | expected=3, actual=3
+PASS : Four invalid borrow attempts rejected | expected=4, actual=4
+PASS : Return succeeds once | expected=1, actual=1
+PASS : Duplicate return rejected | expected=1, actual=1
+PASS : Member disabled | expected=1, actual=1
+PASS : Invalid payment rejected | expected=1, actual=1
+PASS : Disabled member blocked at login | expected=1, actual=1
+PASS : No overdue loans during same-day test | expected=1, actual=1
+PASS : No unpaid fines during same-day test | expected=1, actual=1
+PASS : Loan #3 appears once in confirmation and once in member history | expected=2, actual=2
+PASS : Program exits normally | expected=1, actual=1

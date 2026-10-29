@@ -1,0 +1,17 @@
+Exit code: 0
+Automated menu inputs: 56
+
+PASS : Both books added | expected=2, actual=2
+PASS : Test member registered | expected=1, actual=1
+PASS : Book returned | expected=1, actual=1
+PASS : Six overdue days calculated | expected=1, actual=1
+PASS : Six NIS late fee calculated | expected=1, actual=1
+PASS : Unpaid fine blocks borrowing | expected=1, actual=1
+PASS : Initial unpaid balance is 6 | expected=1, actual=1
+PASS : Partial payment and final payment accepted | expected=2, actual=2
+PASS : Duplicate payment reference rejected | expected=1, actual=1
+PASS : Remaining unpaid balance becomes 4 | expected=1, actual=1
+PASS : Total collected becomes 6 NIS | expected=1, actual=1
+PASS : Borrowing succeeds after full payment | expected=2, actual=2
+PASS : No unpaid fines after full payment | expected=1, actual=1
+PASS : Program exits normally | expected=1, actual=1

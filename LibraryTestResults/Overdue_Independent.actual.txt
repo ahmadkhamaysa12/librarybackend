@@ -1,0 +1,15 @@
+PASS : Old loan created
+PASS : Loan is currently overdue
+PASS : Overdue member cannot borrow another book
+PASS : Other member loan created
+PASS : Due today is NOT overdue
+PASS : Member with loan due today CAN borrow
+PASS : Overdue report shows exactly one loan
+PASS : Overdue book returned successfully
+PASS : Exactly one NIS fine created
+PASS : Returned loan no longer overdue
+PASS : Unpaid fine still blocks borrowing
+PASS : Full fine payment accepted
+PASS : Borrowing allowed after returning and paying
+PASS : Active loans remain correctly tracked
+TOTAL FAILED: 0

@@ -1,0 +1,987 @@
+
+===== Library Management System =====
+1. Login
+2. Register New Member
+3. Browse Library
+4. Search for Items
+5. Exit
+Choose: 
+=== Login ===
+Username: Welcome, Library Administrator!
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: 
+=== Add Item ===
+1. Book
+2. Magazine
+3. Research Paper
+Type: Item ID: Title: Author: Pages: Item added.
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: 
+=== Add Item ===
+1. Book
+2. Magazine
+3. Research Paper
+Type: Item ID: Title: Issue Number: Item added.
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: 
+=== Add Item ===
+1. Book
+2. Magazine
+3. Research Paper
+Type: Item ID: Title: Researcher: Research Field: Item added.
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: 
+=== Add Item ===
+1. Book
+2. Magazine
+3. Research Paper
+Type: Item ID: Title: Author: Pages: Item ID already exists.
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: 
+=== Library Items ===
+1 - Clean Code | Available: True | Active: True
+2 - Science Today | Available: True | Active: True
+3 - AI Research | Available: True | Active: True
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: 
+=== Search Items ===
+1. Search by ID
+2. Search by Title
+Choose: Item ID: ID: 2
+Title: Science Today
+Active: True
+Borrowed: False
+Available: True
+Type: Magazine
+Issue Number: 15
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: 
+=== Search Items ===
+1. Search by ID
+2. Search by Title
+Choose: Title: ID: 2
+Title: Science Today
+Active: True
+Borrowed: False
+Available: True
+Type: Magazine
+Issue Number: 15
+--------------------
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: 
+=== Item Details ===
+Item ID: ID: 1
+Title: Clean Code
+Active: True
+Borrowed: False
+Available: True
+Type: Book
+Author: Robert Martin
+Pages: 464
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: 
+=== Update Item Details ===
+Item ID: 
+Current Details:
+ID: 1
+Title: Clean Code
+Active: True
+Borrowed: False
+Available: True
+Type: Book
+Author: Robert Martin
+Pages: 464
+
+=== Update Book ===
+New Author: New Pages: 
+Item updated successfully!
+
+Updated Details:
+ID: 1
+Title: Clean Code
+Active: True
+Borrowed: False
+Available: True
+Type: Book
+Author: Ahmad Ali
+Pages: 500
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: Item ID: New Title: Title updated.
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: Item ID: Item disabled.
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: 
+===== Library Management System =====
+1. Login
+2. Register New Member
+3. Browse Library
+4. Search for Items
+5. Exit
+Choose: 
+=== Register Member ===
+Name: Username: Registration successful!
+Member ID: 101
+
+===== Library Management System =====
+1. Login
+2. Register New Member
+3. Browse Library
+4. Search for Items
+5. Exit
+Choose: 
+=== Register Member ===
+Name: Username: Registration successful!
+Member ID: 102
+
+===== Library Management System =====
+1. Login
+2. Register New Member
+3. Browse Library
+4. Search for Items
+5. Exit
+Choose: 
+=== Register Member ===
+Name: Username: Registration failed. Check the data, username, and password length (min 8).
+
+===== Library Management System =====
+1. Login
+2. Register New Member
+3. Browse Library
+4. Search for Items
+5. Exit
+Choose: 
+=== Login ===
+Username: Invalid username or password.
+
+===== Library Management System =====
+1. Login
+2. Register New Member
+3. Browse Library
+4. Search for Items
+5. Exit
+Choose: 
+=== Login ===
+Username: Welcome, Library Administrator!
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: ID: 101
+Name: Mohammad
+Username: mohammad
+Max Loans: 3
+Active: True
+-----------------
+ID: 102
+Name: Ali
+Username: ali
+Max Loans: 3
+Active: True
+-----------------
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: Member ID: New Borrow Limit: Limit updated.
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: Member ID: Item ID: Borrow successful!
+Loan ID: 1
+Due Date: 2026-11-11
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: Member ID: Item ID: Borrow failed. Check availability, membership, limit, or unpaid fines.
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: Member ID: Item ID: Borrow failed. Check availability, membership, limit, or unpaid fines.
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: Member ID: Item ID: Borrow failed. Check availability, membership, limit, or unpaid fines.
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: Member ID: Item ID: Borrow successful!
+Loan ID: 2
+Due Date: 2026-11-04
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: 
+=== Reports ===
+1. Items Report
+2. Most Borrowed Items
+3. Overdue Members
+4. Members With Unpaid Fines
+5. Total Collected Fines
+6. Member Loan History
+Choose: 
+=== AVAILABLE ITEMS ===
+
+=== BORROWED ITEMS ===
+1 - Clean Code Updated
+2 - Science Today
+
+=== INACTIVE ITEMS ===
+3 - AI Research
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: 
+=== Reports ===
+1. Items Report
+2. Most Borrowed Items
+3. Overdue Members
+4. Members With Unpaid Fines
+5. Total Collected Fines
+6. Member Loan History
+Choose: 
+=== MOST BORROWED ITEMS ===
+Clean Code Updated - 1 loans
+Science Today - 1 loans
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: 
+=== Reports ===
+1. Items Report
+2. Most Borrowed Items
+3. Overdue Members
+4. Members With Unpaid Fines
+5. Total Collected Fines
+6. Member Loan History
+Choose: 
+=== OVERDUE MEMBERS ===
+No overdue loans.
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: 
+=== Reports ===
+1. Items Report
+2. Most Borrowed Items
+3. Overdue Members
+4. Members With Unpaid Fines
+5. Total Collected Fines
+6. Member Loan History
+Choose: 
+=== MEMBERS WITH UNPAID FINES ===
+No unpaid fines.
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: 
+=== Reports ===
+1. Items Report
+2. Most Borrowed Items
+3. Overdue Members
+4. Members With Unpaid Fines
+5. Total Collected Fines
+6. Member Loan History
+Choose: 
+=== TOTAL COLLECTED FINES ===
+Total: 0 NIS
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: 
+=== Reports ===
+1. Items Report
+2. Most Borrowed Items
+3. Overdue Members
+4. Members With Unpaid Fines
+5. Total Collected Fines
+6. Member Loan History
+Choose: Member ID: 
+=== MEMBER LOAN HISTORY ===
+Member: Mohammad
+----------------------
+Loan ID: 1
+Item: Clean Code Updated
+Borrowed: 2026-10-28
+Due: 2026-11-11
+Status: Active
+----------------------
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: Loan ID: Return successful.
+Late Days: 0
+Late Fee: 0 NIS
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: Loan ID: Return failed.
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: Member ID: Item ID: Borrow successful!
+Loan ID: 3
+Due Date: 2026-11-11
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: Member ID: Member disabled.
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: Member ID: Item ID: Borrow failed. Check availability, membership, limit, or unpaid fines.
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: Fine ID: Amount: Payment Reference: Payment failed.
+
+===== Librarian Menu =====
+Employee: Library Administrator
+1. Add Library Item
+2. Browse Library
+3. Search Items
+4. Register Member
+5. View Members
+6. Borrow Item
+7. Return Item
+8. Pay Fine
+9. Reports
+10. Disable Item
+11. Disable Member
+12. Update Item Title
+13. Change Borrow Limit
+14. View Item Details
+15. Update Item Details
+0. Logout
+Choose: 
+===== Library Management System =====
+1. Login
+2. Register New Member
+3. Browse Library
+4. Search for Items
+5. Exit
+Choose: 
+=== Login ===
+Username: Welcome, Mohammad!
+
+===== Member Menu =====
+1. Browse Library
+2. Search Items
+3. My Loan History
+4. My Fines
+5. My Profile
+0. Logout
+Choose: 
+=== MEMBER LOAN HISTORY ===
+Member: Mohammad
+----------------------
+Loan ID: 1
+Item: Clean Code Updated
+Borrowed: 2026-10-28
+Due: 2026-11-11
+Returned: 2026-10-28
+Status: Returned
+----------------------
+Loan ID: 3
+Item: Clean Code Updated
+Borrowed: 2026-10-28
+Due: 2026-11-11
+Status: Active
+----------------------
+
+===== Member Menu =====
+1. Browse Library
+2. Search Items
+3. My Loan History
+4. My Fines
+5. My Profile
+0. Logout
+Choose: No fines.
+
+===== Member Menu =====
+1. Browse Library
+2. Search Items
+3. My Loan History
+4. My Fines
+5. My Profile
+0. Logout
+Choose: ID: 101
+Name: Mohammad
+Username: mohammad
+Max Loans: 1
+Active: True
+
+===== Member Menu =====
+1. Browse Library
+2. Search Items
+3. My Loan History
+4. My Fines
+5. My Profile
+0. Logout
+Choose: 
+===== Library Management System =====
+1. Login
+2. Register New Member
+3. Browse Library
+4. Search for Items
+5. Exit
+Choose: 
+=== Login ===
+Username: Welcome, Ali!
+Membership disabled.
+
+===== Library Management System =====
+1. Login
+2. Register New Member
+3. Browse Library
+4. Search for Items
+5. Exit
+Choose: 
+=== Library Items ===
+1 - Clean Code Updated | Available: False | Active: True
+2 - Science Today | Available: False | Active: True
+3 - AI Research | Available: False | Active: False
+
+===== Library Management System =====
+1. Login
+2. Register New Member
+3. Browse Library
+4. Search for Items
+5. Exit
+Choose: 
+=== Search Items ===
+1. Search by ID
+2. Search by Title
+Choose: Item ID: ID: 3
+Title: AI Research
+Active: False
+Borrowed: False
+Available: False
+Type: Research Paper
+Researcher: Ahmad
+Research Field: Computer Science
+
+===== Library Management System =====
+1. Login
+2. Register New Member
+3. Browse Library
+4. Search for Items
+5. Exit
+Choose: Goodbye!
